@@ -1,0 +1,42 @@
+{
+	"always_show_minimap_viewport": true,
+	"bold_folder_labels": false,
+	"color_scheme": "Packages/Facebook Material Theme/schemes/Material-Theme.tmTheme",
+	"disable_auto_align": true,
+	"font_face": "Operator Mono",
+	"font_options":
+	[
+		"gray_antialias",
+		"subpixel_antialias"
+	],
+	"font_size": 11,
+	"ignored_packages":
+	[
+		"ASP",
+		"Material Theme",
+		"SublimeCodeIntel",
+		"Vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"indent_with_space": true,
+	"line_padding_bottom": 3,
+	"line_padding_top": 3,
+	"overlay_scroll_bars": "enabled",
+	"php_bin": "/usr/local/bin/php",
+	"phpfmt.passes":
+	[
+		"AllmanStyleBraces"
+	],
+	"psr1": false,
+	"psr2": true,
+	"single_command": true,
+	"theme": "Default.sublime-theme",
+	"ui_native_titlebar": true,
+	"ui_separator": true,
+	"ui_wide_scrollbars": true,
+	"update_check": false
+}
